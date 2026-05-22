@@ -73,7 +73,7 @@ Prototype language learning app providing real-time feedback on Finnish grammar 
 
 Contributed backend REST API development for a VoIP application supporting calling and scheduling meetings. Implemented CRUD operations and database integration using Flask and MySQL as part of a collaborative industry project.
 
-### 📚 [ai-coursework](https://github.com/IrumShehryar/ai-coursework)
+### 📚 [ML-NLP-coursework](https://github.com/IrumShehryar/ML-NLP-Coursework)
 
 Notebooks and experiments from NLP and Machine Learning specialisation coursework. Updated continuously as certifications progress.
 
