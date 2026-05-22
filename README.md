@@ -23,7 +23,7 @@ The research built and evaluated a four-configuration NLP pipeline for extractin
 
 📄 **Published thesis:** [URN:NBN:fi:amk-2026051311846](https://urn.fi/URN:NBN:fi:amk-2026051311846)
 
-📊 **Evaluation dataset & results:** [thesis-nlp-evaluation](https://github.com/IrumShehryar/thesis-nlp-evaluation) *(coming soon)*
+📊 **Evaluation dataset & results:** [thesis-nlp-evaluation](https://github.com/IrumShehryar/thesis-nlp-evaluation)
 
 ---
 
