@@ -69,9 +69,13 @@ University coursework implementing regression and classification algorithms in P
 
 Prototype language learning app providing real-time feedback on Finnish grammar and pronunciation.
 
-### 📞 [AsiakasGroupOy](https://github.com/IrumShehryar/AsiakasGroupOy/tree/Asiakas_Group_Oy)
+### 📞 [AsiakasGroupOy](https://github.com/AsiakasGroupOy/Asiakas_Group_Oy)
 
-Backend REST API for a VoIP application supporting calling and scheduling meetings. Implemented CRUD operations, database integration, and structured API design using Flask and MySQL as part of a real industry project.
+Contributed backend REST API development for a VoIP application supporting calling and scheduling meetings. Implemented CRUD operations and database integration using Flask and MySQL as part of a collaborative industry project.
+
+### 📚 [ai-coursework](https://github.com/IrumShehryar/ai-coursework)
+
+Notebooks and experiments from NLP and Machine Learning specialisation coursework. Updated continuously as certifications progress.
 
 ---
 
