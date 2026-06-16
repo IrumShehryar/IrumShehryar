@@ -29,8 +29,8 @@ The research built and evaluated a four-configuration NLP pipeline for extractin
 
 ## 🌱 Current Focus
 
-- Pursuing PhD opportunities in **Finnish clinical NLP** and **cross-lingual health information extraction** — specifically Finnish clinical text and Urdu public health surveillance
-- NLP Specialisation and Machine Learning Specialisation certifications in progress
+- Pursuing PhD opportunities in **Clinical NLP**, **Biomedicine** and **cross-lingual health information extraction** — 
+- Advance NLP and Machine Learning certifications in progress
 
 ---
 
