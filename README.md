@@ -19,7 +19,7 @@ The research built and evaluated a four-configuration NLP pipeline for extractin
 
 **Key results:** 83.33% exact match accuracy with the full hybrid configuration across 60 Finnish news articles — a 16.66 percentage point improvement over the rule-based baseline.
 
-**Key finding:** Systematic lemmatization failures on Finnish postal-level names point to a data coverage gap in Finnish NER training corpora — not a tool architecture limitation. This finding motivates future work on Finnish clinical NLP and cross-lingual transfer to low-resource health domains.
+**Key finding:** Systematic lemmatization failures on Finnish postal-level names point to a data coverage gap in Finnish NER training corpora — not a tool architecture limitation.
 
 📄 **Published thesis:** [URN:NBN:fi:amk-2026051311846](https://urn.fi/URN:NBN:fi:amk-2026051311846)
 
@@ -53,9 +53,9 @@ The research built and evaluated a four-configuration NLP pipeline for extractin
 
 Four-configuration hybrid pipeline for Finnish postal-level location extraction. Evaluation dataset and results available in the thesis evaluation repo above. Grade 5/5.
 
-### 📊 [thesis-nlp-evaluation](https://github.com/IrumShehryar/thesis-nlp-evaluation) *(coming soon)*
+### 📊 [thesis-nlp-evaluation](https://github.com/IrumShehryar/thesis-nlp-evaluation)
 
-Annotated evaluation dataset, ground truth annotations, and results across all four pipeline configurations.
+Annotated evaluation dataset, ground truth annotations, and results across all four pipeline configurations. This is the live evaluation repository for the thesis research.
 
 ### 🤖 [MCP-practice](https://github.com/IrumShehryar/MCP-practice)
 
@@ -71,7 +71,7 @@ Prototype language learning app providing real-time feedback on Finnish grammar 
 
 ### 📞 [AsiakasGroupOy](https://github.com/AsiakasGroupOy/Asiakas_Group_Oy)
 
-Contributed backend REST API development for a VoIP application supporting calling and scheduling meetings. Implemented CRUD operations and database integration using Flask and MySQL as part of a collaborative industry project.
+Contributed backend REST API development for a VoIP application supporting calling and scheduling meetings. Implemented CRUD operations and database integration using Flask and MySQL.
 
 ### 📚 [ML-NLP-coursework](https://github.com/IrumShehryar/ML-NLP-Coursework)
 
